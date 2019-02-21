@@ -13,7 +13,7 @@ These instructions should allow you to install blender 2.80 as both a fully feat
 3. Open a command prompt and navigate to your blender repository
 
 4. Use the following command to download the precompiled blender binaries:  
-SVN checkout https://svn.blender.org/svnroot/bf-blender/trunk/lib/win64\_vc14 lib/win64\_vc14_
+SVN checkout https://svn.blender.org/svnroot/bf-blender/trunk/lib/win64_vc14 lib/win64_vc14_
 
 5. Use the following commands in order to download the latest blender source code:
 _git clone git\://git\.blender\.org/blender.git  
